@@ -18,7 +18,7 @@ class UserController extends Controller
 
     public function nuevoUsuario()
     {
-        return "Usuario creado correctamente desde el controlador papa!";
+        return "Usuario creado correctamente desde el controlador papa de los propios papas!";
     }
 
     public function usuarioDetalle($id)
